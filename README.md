@@ -1,18 +1,13 @@
 # 🚀 Project Title
 
-A short and clear description of your project goes here. Explain what it does and why it exists.
+This is not an OPEN source project. This application visualizes an organization’s sales data in a clear and interactive way. It is a single-screen dashboard where users can analyze their sales performance through different types of charts, including pie charts and bar charts, to gain better insights into trends and distributions.
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Video
 
-> Replace the URL below with your actual YouTube video link.
-
+link.
 [![Watch the video](https://www.youtube.com/shorts/_AlO9bjFZ1c.jpg)](https://www.youtube.com/shorts/_AlO9bjFZ1c)
-
-OR (if you prefer GIF/video file in repo):
-
-![Demo Video](assets/demo.gif)
 
 ---
 
@@ -28,23 +23,3 @@ OR (if you prefer GIF/video file in repo):
   <img src="image7.png" width="200"/>
 </p>
 
-## 🧠 Features
-
-- Feature 1 (e.g., Authentication system using Firebase)
-- Feature 2 (e.g., Real-time search functionality)
-- Feature 3 (e.g., Responsive UI design)
-- Feature 4 (e.g., Video playback support)
-- Feature 5 (e.g., API integration)
-
----
-
-## 🛠️ Tech Stack
-
-- React Native / React / Node.js (edit according to your project)
-- Firebase
-- REST APIs
-- Other libraries used
-
----
-
-## 📂 Folder Structure
