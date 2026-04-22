@@ -19,19 +19,13 @@ OR (if you prefer GIF/video file in repo):
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="src/assets/12.png" width="200"/>
-  <img src="src/assets/13.png" width="200"/>
-  <img src="src/assets/14.png" width="200"/>
-  <img src="src/assets/15.png" width="200"/>
-  <img src="src/assets/16.png" width="200"/>
-  <img src="src/assets/17.png" width="200"/>
-  <img src="src/assets/18.png" width="200"/>
-  <img src="src/assets/19.png" width="200"/>
-  <img src="src/assets/20.png" width="200"/>
-  <img src="src/assets/21.png" width="200"/>
-  <img src="src/assets/22.png" width="200"/>
-
- 
+  <img src="image1.png" width="200"/>
+  <img src="image2.png" width="200"/>
+  <img src="image3.png" width="200"/>
+  <img src="image4.png" width="200"/>
+  <img src="image5.png" width="200"/>
+  <img src="image6.png" width="200"/>
+  <img src="image7.png" width="200"/>
 </p>
 
 ## 🧠 Features
