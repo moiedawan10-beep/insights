@@ -5,7 +5,7 @@ This is not an OPEN source project. This application visualizes an organizationâ
 ---
 
 ## ðŸŽ¥ Video
-[![Watch the video](https://www.youtube.com/shorts/_AlO9bjFZ1c)
+[Watch the video(https://www.youtube.com/shorts/_AlO9bjFZ1c)
 
 ---
 
