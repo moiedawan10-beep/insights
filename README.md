@@ -18,28 +18,21 @@ OR (if you prefer GIF/video file in repo):
 
 ## 📸 Screenshots
 
-### 1. Home Screen
-![Home](image1.png)
+<p float="left">
+  <img src="src/assets/12.png" width="200"/>
+  <img src="src/assets/13.png" width="200"/>
+  <img src="src/assets/14.png" width="200"/>
+  <img src="src/assets/15.png" width="200"/>
+  <img src="src/assets/16.png" width="200"/>
+  <img src="src/assets/17.png" width="200"/>
+  <img src="src/assets/18.png" width="200"/>
+  <img src="src/assets/19.png" width="200"/>
+  <img src="src/assets/20.png" width="200"/>
+  <img src="src/assets/21.png" width="200"/>
+  <img src="src/assets/22.png" width="200"/>
 
-### 2. Login Screen
-![Login](image2.png)
-
-### 3. Dashboard
-![Dashboard](assets/image3.png)
-
-### 4. Search Feature
-![Search](assets/image4.png)
-
-### 5. Profile Page
-![Profile](assets/image5.png)
-
-### 6. Settings Page
-![Settings](assets/image6.png)
-
-### 7. Final Output / Feature Highlight
-![Output](assets/image7.png)
-
----
+ 
+</p>
 
 ## 🧠 Features
 
