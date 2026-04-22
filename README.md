@@ -8,7 +8,7 @@ A short and clear description of your project goes here. Explain what it does an
 
 > Replace the URL below with your actual YouTube video link.
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://www.youtube.com/shorts/_AlO9bjFZ1c.jpg)](https://www.youtube.com/shorts/_AlO9bjFZ1c)
 
 OR (if you prefer GIF/video file in repo):
 
