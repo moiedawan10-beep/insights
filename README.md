@@ -12,12 +12,11 @@ https://www.youtube.com/shorts/_AlO9bjFZ1c
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="image1.png" width="200"/>
-  <img src="image2.png" width="200"/>
-  <img src="image3.png" width="200"/>
-  <img src="image4.png" width="200"/>
-  <img src="image5.png" width="200"/>
-  <img src="image6.png" width="200"/>
-  <img src="image7.png" width="200"/>
+  <img src="image1.png" width="200" style="margin:10px;" />
+  <img src="image2.png" width="200" style="margin:10px;" />
+  <img src="image3.png" width="200" style="margin:10px;" />
+  <img src="image4.png" width="200" style="margin:10px;" />
+  <img src="image5.png" width="200" style="margin:10px;" />
+  <img src="image6.png" width="200" style="margin:10px;" />
+  <img src="image7.png" width="200" style="margin:10px;" />
 </p>
-
